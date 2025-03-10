@@ -18,13 +18,13 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    'https://civitai.com/api/download/models/956306?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
-    'https://civitai.com/api/download/models/1099032?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
-    'https://civitai.com/api/download/models/1386847?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/914390?type=Model&format=SafeTensor&size=full&fp=fp16&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
 )
 
 LORA_MODELS=(
     'https://civitai.com/api/download/models/956306?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/1099032?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/1386847?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
 )
 
 VAE_MODELS=(
