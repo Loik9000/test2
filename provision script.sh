@@ -39,7 +39,10 @@ ESRGAN_MODELS=(
 
 CONTROLNET_MODELS=()
 
-EMBEDDINGS=()
+EMBEDDINGS=(
+'https://civitai.com/api/download/models/972770?type=Negative&format=Other&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+'https://civitai.com/api/download/models/1477814?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+)
 
 function provisioning_start() {
 
