@@ -26,6 +26,8 @@ LORA_MODELS=(
     'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/hinaMaybeBetterPoseXL_v5-NoobAI.safetensors'
     'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/looking_at_viewer.safetensors'
     'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/weight_slider-sdxl.safetensors'
+    'https://civitai.com/api/download/models/802232?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/1065885?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
 )
 
 VAE_MODELS=(
@@ -39,7 +41,10 @@ ESRGAN_MODELS=(
 
 CONTROLNET_MODELS=()
 
-EMBEDDINGS=()
+EMBEDDINGS=(
+'https://civitai.com/api/download/models/775151?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+'https://civitai.com/api/download/models/772342?type=Negative&format=Other&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+)
 
 function provisioning_start() {
 
