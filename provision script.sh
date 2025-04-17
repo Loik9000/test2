@@ -25,6 +25,10 @@ LORA_MODELS=(
     'https://civitai.com/api/download/models/956306?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
     'https://civitai.com/api/download/models/1099032?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
     'https://civitai.com/api/download/models/1386847?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/722613?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/703760?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/359222?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/578875?type=Model&format=SafeTensor&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
 )
 
 VAE_MODELS=(
