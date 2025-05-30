@@ -18,7 +18,7 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    'https://civitai.com/api/download/models/914390?type=Model&format=SafeTensor&size=full&fp=fp16&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
+    'https://civitai.com/api/download/models/1838857?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=40ff9504c1a5a20cae0ad1e3c72b7d89'
 )
 
 LORA_MODELS=(
